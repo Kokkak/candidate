@@ -1,0 +1,6 @@
+@BrandNewDaysCL1_HostAddress = http://localhost:5271
+
+GET {{BrandNewDayCL1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
